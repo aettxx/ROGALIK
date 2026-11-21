@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Rogalik/Rogalik.vcxproj" Id="ac2b889b-8d41-4ada-bf73-528fe9ecf9b2" />
+</Solution>
